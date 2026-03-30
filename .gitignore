@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.claude/
+
+# Streamlit secrets — přidat do Streamlit Cloud dashboard, NECOMMITOVAT
+.streamlit/secrets.toml
